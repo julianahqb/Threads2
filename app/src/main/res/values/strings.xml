@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">exThreads</string>
+    <string name="processar">Processar</string>
+    <string name="processando">Processando...</string>
+    <string name="finalizado">Finalizado!</string>
+</resources>
